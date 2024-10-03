@@ -1961,7 +1961,7 @@ addLayer("n", {
     branches:["e","m"],
     position: 0,
     startData() { return {
-        unlocked: true,
+        unlocked: false,
 		points: zero,
         resetTimes: zero,
     }},
